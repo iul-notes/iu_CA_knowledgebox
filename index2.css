@@ -1,0 +1,11 @@
+*{margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.footer{
+	background-color: #000;
+	position: relative;
+	height: 150px;
+	margin-top: -65px;
+	clear: both;
+}
