@@ -54,23 +54,13 @@
 	transition: .5s;
 
 }
-.social-icons{
-	margin: 30px auto;
-	text-align: center;
-}
-.social-icons img{
-	margin: 10px;
-	margin: 0  12px;
-	box-shadow: 0 0 20 0 #7f7f7f3d;
-	cursor: pointer;
-	border-radius: 50%;
-}
+
 .input-group{
 	top: 150px;
 	position: absolute;
 	width: 280px;
 	transform: .5s
-        margin: 40px 40px 0px 55px;
+        
 }
 
 
