@@ -3,15 +3,15 @@
 }
 .logo{
 	width: 100%;
-	height: 100vh;
+        height:100vh;
 	background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('https://png.pngtree.com/thumb_back/fh260/back_pic/03/99/64/8557fa0d3d5c357.jpg');
 	background-position:center;
         margin:20px auto;
 	padding:20px 0px;
 	background-size:cover;
-	position: absolute;
 	color:gray;
 	text-align: right;
+        overflow:hidden
 
 }
 .form-box{
