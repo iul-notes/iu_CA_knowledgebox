@@ -97,11 +97,16 @@ section .button1
 }
 .footer{
 	background-color: #000;
-	position: relative;
+	position: fixed;
 	height: 150px;
+        left: 0;
+        bottom: 0;
+        width: 100%;
 	margin-top: -65px;
 	clear: both;
 }
+
+
 @keyframes changetext
 {
 	0%{content: "BCA"}
