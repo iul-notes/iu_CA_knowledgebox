@@ -95,6 +95,13 @@ section .button1
 	color: darkgoldenrod;
 
 }
+.footer{
+	background-color: #000;
+	position: relative;
+	height: 150px;
+	margin-top: -65px;
+	clear: both;
+}
 @keyframes changetext
 {
 	0%{content: "BCA"}
