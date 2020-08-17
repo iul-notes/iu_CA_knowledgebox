@@ -95,16 +95,6 @@ section .button1
 	color: darkgoldenrod;
 
 }
-.footer{
-	background-color: #000;
-	position: fixed;
-	
-        left: 0;
-        bottom: 0;
-        width: 100%;
-	
-	clear: both;
-}
 
 
 @keyframes changetext
